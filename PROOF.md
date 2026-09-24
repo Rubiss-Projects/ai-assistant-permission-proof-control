@@ -1,0 +1,1 @@
+Disposable scope test.
